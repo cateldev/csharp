@@ -21,7 +21,7 @@ namespace Aula3VSC
 
             imc = weight / (height * height);
 
-            Console.WriteLine ("Seu IMC é " + imc);
+            Console.WriteLine ("Seu IMC atualmente é " + imc);
         }
     }
 }
