@@ -21,7 +21,7 @@ namespace Aula3VSC
 
             imc = weight / (height * height);
 
-            Console.WriteLine ("Seu IMC é " + imc + ". Ta gordo pa caralho ein, filho da puta!");
+            Console.WriteLine ("Seu IMC é " + imc);
         }
     }
 }
