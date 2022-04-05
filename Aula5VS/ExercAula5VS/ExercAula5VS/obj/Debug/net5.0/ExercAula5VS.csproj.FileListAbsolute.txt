@@ -1,0 +1,16 @@
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.csproj.AssemblyReference.cache
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.AssemblyInfoInputs.cache
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.AssemblyInfo.cs
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\bin\Debug\net5.0\ExercAula5VS.exe
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\bin\Debug\net5.0\ExercAula5VS.deps.json
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\bin\Debug\net5.0\ExercAula5VS.runtimeconfig.json
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\bin\Debug\net5.0\ExercAula5VS.runtimeconfig.dev.json
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\bin\Debug\net5.0\ExercAula5VS.dll
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\bin\Debug\net5.0\ExercAula5VS.pdb
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.dll
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\refint\ExercAula5VS.dll
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.pdb
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ExercAula5VS.genruntimeconfig.cache
+C:\Users\Matheus Catel\Desktop\Gen\Codes2\Aula5VS\ExercAula5VS\ExercAula5VS\obj\Debug\net5.0\ref\ExercAula5VS.dll
