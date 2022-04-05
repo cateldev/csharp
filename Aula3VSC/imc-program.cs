@@ -8,7 +8,7 @@ namespace Aula3VSC
         {
             float height;
             float weight;
-            float imc;
+            double imc;
 
             Console.WriteLine("Digite seu nome: ");
             string name = Console.ReadLine();
@@ -21,7 +21,18 @@ namespace Aula3VSC
 
             imc = weight / (height * height);
 
-            Console.WriteLine ("Seu IMC atualmente é " + imc);
+            if (imc <= 18.5){
+                Console.WriteLine ("Seu IMC atualmente é " + imc +". Você está abaixo do peso.");
+            }
+            else if (imc < 25){
+                Console.WriteLine ("Seu IMC atualmente é " + imc +". Você está com peso normal.");
+            }
+             else if (imc < 30){
+                Console.WriteLine ("Seu IMC atualmente é " + imc +". Você está sobrepeso.");
+            }
+            else if(imc <= 30){
+                Console.WriteLine ("Seu IMC atualmente é " + imc +". Você está obeso.");
+            }
         }
     }
 }
