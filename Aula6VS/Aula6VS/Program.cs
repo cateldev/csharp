@@ -6,14 +6,18 @@ namespace Aula6VS
     {
         static void Main(string[] args)
         {
-            int valor = 0;
+            int number;
 
-            for(int i = 1; i < 20; i++)
+            Console.WriteLine("Tabuada. \nInsira qual número você quer calcular: ");
+            number = Convert.ToInt32(Console.ReadLine());
+
+            for (int x = 1; x <= 10; x++)
             {
-                Console.WriteLine($"Posição {i} Valor que deseja somar: ");
-                valor += int.Parse(Console.ReadLine());
+                int result = number * x;
+                Console.WriteLine($"{number} x {x} = {result}");
             }
-            Console.WriteLine($"Somatória: {valor}");
+
         }
     }
 }
+
