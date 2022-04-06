@@ -4,6 +4,8 @@ namespace Aula3VSC
 {
     class Program
     {
+        //Calcular o IMC de uma persona.
+        
         static void Main(string[] args)
         {
             float height;
