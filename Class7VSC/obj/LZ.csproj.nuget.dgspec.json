@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\LZ\\LZ.csproj": {}
+    "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\Class7VSC\\LZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\LZ\\LZ.csproj": {
+    "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\Class7VSC\\LZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\LZ\\LZ.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\Class7VSC\\LZ.csproj",
         "projectName": "LZ",
-        "projectPath": "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\LZ\\LZ.csproj",
+        "projectPath": "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\Class7VSC\\LZ.csproj",
         "packagesPath": "C:\\Users\\Matheus Catel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\LZ\\obj\\",
+        "outputPath": "C:\\Users\\Matheus Catel\\Desktop\\GENERATION\\EXERCICES\\CODES\\Class7VSC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus Catel\\AppData\\Roaming\\NuGet\\NuGet.Config",
