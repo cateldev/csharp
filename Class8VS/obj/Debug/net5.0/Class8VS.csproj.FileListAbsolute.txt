@@ -1,0 +1,5 @@
+C:\Users\Matheus Catel\Desktop\GENERATION\EXERCICES\CODES\Class8VS\obj\Debug\net5.0\Class8VS.csproj.AssemblyReference.cache
+C:\Users\Matheus Catel\Desktop\GENERATION\EXERCICES\CODES\Class8VS\obj\Debug\net5.0\Class8VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Catel\Desktop\GENERATION\EXERCICES\CODES\Class8VS\obj\Debug\net5.0\Class8VS.AssemblyInfoInputs.cache
+C:\Users\Matheus Catel\Desktop\GENERATION\EXERCICES\CODES\Class8VS\obj\Debug\net5.0\Class8VS.AssemblyInfo.cs
+C:\Users\Matheus Catel\Desktop\GENERATION\EXERCICES\CODES\Class8VS\obj\Debug\net5.0\Class8VS.csproj.CoreCompileInputs.cache

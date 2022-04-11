@@ -8,25 +8,10 @@ namespace ExerciceCalculator
         {   
             Console.WriteLine("Calculator TI-82");
             Console.WriteLine("Type start to begin");
-            string start = Console.ReadLine();     
-            
-            if (start == "start")
-            {
-                Begin();
-                Console.WriteLine("Calculate again?");
-                 string anwser = Console.ReadLine(); 
-
-                while (anwser == "yes")
-                {
-                    Begin();
-                    Console.WriteLine("Calculate again?");
-                }            
-            }
-            else 
-            {
-                Console.WriteLine("Closing the application");
-            }
+            string start = Console.ReadLine();            
         }
+           
+    
 
             public static void Begin()
             {
